@@ -6,7 +6,7 @@ This is a Python based cookbook for Le Issac , undertaking task like sim teloper
 ## Installation
 
 guide : https://huggingface.co/docs/lerobot/en/installation
-
+test_code_setup : https://huggingface.co/docs/lerobot/en/envhub_leisaac
 ```
 conda create -y -n lerobot python=3.10
 
