@@ -26,3 +26,10 @@ pip install lerobot
 ```
 pip install 'lerobot[all]' 
 ```
+
+evdev bug requies temp fix [source](https://stackoverflow.com/questions/79727078/pip-failied-to-build-evdev)
+```
+export CC=/usr/bin/gcc
+export CXX=/usr/bin/g++
+pip install evdev
+```
